@@ -1,15 +1,12 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-  gem "jekyll-remote-theme"
-end
+source "https://rubygems.org"
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
-gem "no-style-please"
+gem "kramdown-parser-gfm"
+gem "webrick"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "logger"
+
+gemspec
