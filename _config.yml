@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "no-style-please" # Currently available options are "default", "air"
 title                    : "Samuel Isaac"
 title_separator          : "-"
 name                     : &name "Samuel Isaac"
