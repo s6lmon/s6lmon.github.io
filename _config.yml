@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CA"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "SAMUEL'S WEBSITE"
+title                    : "Samuel Isaac"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Samuel Isaac"
+description              : &description "personal website"
 url                      : https://s6lmon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a current Master's of Science in Forestry (MScF) at UofT. My research interests include landscape ecology, fire exposure, and forest simulation modelling."
+  location         : "Toronto, ON"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samuel.isaac@mail.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
