@@ -6,13 +6,19 @@ entries:
       - title: my research interests include landscape ecololgy, fire exposure analysis, and forest simulation modelling
       - title: my personal interests inlcude songwriting, live music, cooking, games, and tinkering
 
-  - title: publications (in progress for now...)
+  - title: active research and publications
     entries:
       - title: master's thesis in progress
       - title: TRIAD D19 manuscript in progress
+      - title: <a href='https://www.mdpi.com/2674-1024/3/4/37'>Biochar and Deactivated Yeast as Seed Coatings for Restoration: Performance on Alternative Substrates</a>
+        entries:
+          - title: I am acknowledged for "assistance with the experimental setup"... really I sifted vast amounts of gravel through potato bags
   
   - title: other business and research
     entries:
+      - title: I recenly (august 2025) participated in a mixedwood surface fuel classifcation project with the Ontario ministry of natural resources in northwestern Ontario
+        entries:
+          - title: a <a href='lidar.jpg'>photo </a> of me operating the terrestrial lidar scanner
       - title: <a href='https://academic.daniels.utoronto.ca/forestry/2025-for401-403-annual-research-showcase/'>my undergrad thesis presentation</a>
       - title: <a href='https://academic.daniels.utoronto.ca/forestry/forestry-undergraduate-students-present-tree-inventory-project-results-to-the-legislative-assembly-of-ontario/'>my undergrad class and I presenting tree inventory data and action plans to the legislative assembly of Ontario</a>
   
@@ -25,13 +31,17 @@ entries:
   - title: my <a href='https://www.youtube.com/@s6lmone'>youtube channel</a> where I review tinned seafood and make music (often at the same time) 
  
   - title: contact me at samuel.isaac@mail.utoronto.ca
-    
-  - title: resume
-    url: 'Resume July 2025.pdf'
+    entries:
+    - title: cv
+      url: logo.png
+    - title: resume
+      url: 'Resume July 2025.pdf'
+    - title: github
+      url: https://github.com/s6lmon
     
   - title: academic posts
     post_list:
-      limit: 4
+      limit: 2
       category: academic
       show_more: true
       show_more_text: See more posts...
@@ -39,7 +49,7 @@ entries:
       
   - title: fun posts
     post_list:
-      limit: 4
+      limit: 2
       category: fun
       show_more: true
       show_more_text: See more posts...
