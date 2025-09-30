@@ -37,11 +37,11 @@ entries:
         url: logo.png
       - title: resume
         url: 'Resume July 2025.pdf'
-      - title: github
+      - title: github</br>
         url: 'https://github.com/s6lmon'
+
   
-  description: /////posts/////
-  
+
   - title: academic posts
     post_list:
       limit: 2
