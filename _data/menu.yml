@@ -1,3 +1,6 @@
+---
+What about before entries?
+---
 entries:
   - title: about
     url: about
@@ -40,7 +43,7 @@ entries:
       - title: github
         url: 'https://github.com/s6lmon'
   
-  title: /////posts/////
+  - title: /////posts/////
   
   - title: academic posts
     post_list:
