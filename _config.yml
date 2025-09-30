@@ -22,6 +22,7 @@ title: samuel isaac's personal website
 email: samuel.isaac@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   welcome to my new website!
+domain: "https://s6lmon.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://s6lmon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
