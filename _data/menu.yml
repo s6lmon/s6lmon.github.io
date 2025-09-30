@@ -30,7 +30,7 @@ entries:
   
   - title: my <a href='https://www.youtube.com/@s6lmone'>youtube channel</a> where I review tinned seafood and make music (often at the same time) 
  
-  - title: contact me at samuel.isaac@mail.utoronto.ca
+  - title: contact me at <a href='mailto:samuel.isaac@mail.utoronto.ca'>samuel.isaac@mail.utoronto.ca</a>
     entries:
     - title: cv
       url: logo.png
@@ -38,7 +38,9 @@ entries:
       url: 'Resume July 2025.pdf'
     - title: github
       url: https://github.com/s6lmon
-    
+      
+</p>/////////////////////////////////////////</p>
+
   - title: academic posts
     post_list:
       limit: 2
