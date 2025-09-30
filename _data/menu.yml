@@ -40,7 +40,7 @@ entries:
       - title: github
         url: 'https://github.com/s6lmon'
   
-  - title: /////posts/////
+  - description: /////posts/////
   
   - title: academic posts
     post_list:
@@ -49,10 +49,7 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: academic-archive.html
----
-Break
----
-entries:
+
   - title: fun posts
     post_list:
       limit: 2
