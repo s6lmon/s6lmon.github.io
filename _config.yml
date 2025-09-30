@@ -22,8 +22,8 @@ title: samuel isaac's personal website
 email: samuel.isaac@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   welcome to my new website!
-baseurl: "https://s6lmon.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://s6lmon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 favicon: "logo.png"
 
@@ -31,7 +31,7 @@ favicon: "logo.png"
 theme: no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page

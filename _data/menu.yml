@@ -1,5 +1,4 @@
 entries:
-  
   - title: about
     entries:
       - title: samuel isaac is a forestry researcher at the university of toronto
@@ -12,22 +11,30 @@ entries:
       - title: master's thesis in progress
   
   - title: cv
-    url: youtube.com
+    url: logo.png
   
   - title: resume
     url: 'Resume July 2025.pdf'
-  
-  - title: all posts
+    
+  - title: academic posts
     post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: posts.html
-
-  - title: posts by category
-    post_list:
-      category: fun
+      limit: 4
       category: academic
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: academic-archive.html
+      
+  - title: fun posts
+    post_list:
+      limit: 4
+      category: fun
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: fun-archive.html
+  
+  - title: all posts
+    post_list:
+      limit: 0
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
