@@ -32,14 +32,14 @@ entries:
  
   - title: contact me at <a href='mailto:samuel.isaac@mail.utoronto.ca'>samuel.isaac@mail.utoronto.ca</a>
     entries:
-    - title: cv
-      url: logo.png
-    - title: resume
-      url: 'Resume July 2025.pdf'
-    - title: github
-      url: https://github.com/s6lmon
-      
-</p>/////////////////////////////////////////</p>
+      - title: cv
+        url: logo.png
+      - title: resume
+        url: 'Resume July 2025.pdf'
+      - title: github
+        url: https://github.com/s6lmon
+
+</p>/////////////////////</p>
 
   - title: academic posts
     post_list:
