@@ -1,6 +1,6 @@
 entries:
   - title: about
-    url: about.markdown
+    url: about
     entries:
       - title: samuel isaac is a forestry researcher at the university of toronto
       - title: my research interests include landscape ecololgy, fire exposure analysis, and forest simulation modelling
