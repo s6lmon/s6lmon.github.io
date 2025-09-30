@@ -1,0 +1,23 @@
+entries:
+  - title: academic posts
+    post_list:
+      limit: 2
+      category: academic
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: academic-archive.html
+
+  - title: fun posts
+    post_list:
+      limit: 2
+      category: fun
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: fun-archive.html
+  
+  - title: all posts
+    post_list:
+      limit: 0
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
