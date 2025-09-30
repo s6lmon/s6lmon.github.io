@@ -1,0 +1,40 @@
+entries:
+  - title: about
+    entries:
+      - title: samuel isaac is a forestry researcher at the university of toronto
+      - title: my research interests include landscape ecololgy, fire exposure analysis, and forest simulation modelling
+      - title: my personal interests inlcude songwriting, live music, cooking, games, and tinkering
+
+  - title: publications (in progress for now...)
+    entries:
+      - title: TRIAD caribou manuscript in progress
+      - title: master's thesis in progress
+  
+  - title: cv
+    url: logo.png
+  
+  - title: resume
+    url: 'Resume July 2025.pdf'
+    
+  - title: academic posts
+    post_list:
+      limit: 4
+      category: academic
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: academic-archive.html
+      
+  - title: fun posts
+    post_list:
+      limit: 4
+      category: fun
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: fun-archive.html
+  
+  - title: all posts
+    post_list:
+      limit: 0
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
