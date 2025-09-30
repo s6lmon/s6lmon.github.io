@@ -12,14 +12,8 @@ categories: fun
 
 Here I will give instructions on how to access my community media server.
 
-## [VPN]#(VPN)
+## [VPN](#VPN)
 
-tailscale
+## [Streaming](#Streaming)
 
-## [Streaming]#(Streaming)
-
-Jellyfin
-
-## Uploading
-
-Filezilla
+## [Uploading](#Uploading)

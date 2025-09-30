@@ -2,7 +2,7 @@ entries:
   
   - title: about
     entries:
-      - title: samuel isaac is a forestry researcher at UofT
+      - title: samuel isaac is a forestry researcher at the university of toronto
       - title: my research interests include landscape ecololgy, fire exposure analysis, and forest simulation modelling
       - title: my personal interests inlcude songwriting, live music, cooking, games, and tinkering
 
@@ -15,7 +15,7 @@ entries:
     url: youtube.com
   
   - title: resume
-    url: youtube.com
+    url: 'Resume July 2025.pdf'
   
   - title: all posts
     post_list:
