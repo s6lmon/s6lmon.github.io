@@ -1,5 +1,6 @@
 entries:
   - title: about
+    url: about.markdown
     entries:
       - title: samuel isaac is a forestry researcher at the university of toronto
       - title: my research interests include landscape ecololgy, fire exposure analysis, and forest simulation modelling
@@ -9,6 +10,10 @@ entries:
     entries:
       - title: TRIAD caribou manuscript in progress
       - title: master's thesis in progress
+
+  - title: contact me at samuel.isaac@mail.utoronto.ca
+  
+  - title: my <a href='https://www.youtube.com/@s6lmone'>yotube channel</a> where I review tinned seafood and make music (often at the same time) 
   
   - title: cv
     url: logo.png
