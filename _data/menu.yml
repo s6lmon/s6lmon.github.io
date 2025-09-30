@@ -1,6 +1,3 @@
----
-What about before entries?
----
 entries:
   - title: about
     url: about
@@ -52,7 +49,10 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: academic-archive.html
-      
+---
+Break
+---
+entries:
   - title: fun posts
     post_list:
       limit: 2
