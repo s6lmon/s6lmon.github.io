@@ -40,6 +40,8 @@ entries:
       - title: github
         url: 'https://github.com/s6lmon'
 
+'////////////////////////////////////////'
+
   - title: academic posts
     post_list:
       limit: 2
