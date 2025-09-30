@@ -39,8 +39,6 @@ entries:
       - title: github
         url: https://github.com/s6lmon
 
-</p>/////////////////////</p>
-
   - title: academic posts
     post_list:
       limit: 2
