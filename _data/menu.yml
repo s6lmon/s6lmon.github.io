@@ -27,7 +27,7 @@ entries:
     entries:
       - title: I play guitar, sing, and songwrite for pistol shrimp
       - title: I play bass guitar for <a href='https://www.instagram.com/the_north_river_band/'>north river band</a>
-      - title: I sometimes preform solo under the name s6lmon (pronounced salmon)
+      - title: I sometimes perform solo under the name s6lmon (pronounced salmon)
   
   - title: my <a href='https://www.youtube.com/@s6lmone'>youtube channel</a> where I review tinned seafood and make music (often at the same time) 
  
@@ -40,7 +40,7 @@ entries:
       - title: github
         url: 'https://github.com/s6lmon'
 
-  - title: "////////////// •"
+  - title: <p style="text-align: center;">"//////////////////////// •"</p>
 
   - title: academic posts
     post_list:
