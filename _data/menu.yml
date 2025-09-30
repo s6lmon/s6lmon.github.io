@@ -8,16 +8,23 @@ entries:
 
   - title: publications (in progress for now...)
     entries:
-      - title: TRIAD caribou manuscript in progress
       - title: master's thesis in progress
-
+      - title: TRIAD D19 manuscript in progress
+  
+  - title: other business and research
+    entries:
+      - title: <a href='https://academic.daniels.utoronto.ca/forestry/2025-for401-403-annual-research-showcase/'>my undergrad thesis presentation</a>
+      - title: <a href='https://academic.daniels.utoronto.ca/forestry/forestry-undergraduate-students-present-tree-inventory-project-results-to-the-legislative-assembly-of-ontario/'>my undergrad class and I presenting tree inventory data and action plans to the legislative assembly of Ontario</a>
+  
+  - title: music
+    entries:
+      - title: I play guitair, sing, and songwrite for pistol shrimp
+      - title: I play bass guitair for <a href='https://www.instagram.com/the_north_river_band/'>north river band</a>
+  
+  - title: my <a href='https://www.youtube.com/@s6lmone'>youtube channel</a> where I review tinned seafood and make music (often at the same time) 
+ 
   - title: contact me at samuel.isaac@mail.utoronto.ca
-  
-  - title: my <a href='https://www.youtube.com/@s6lmone'>yotube channel</a> where I review tinned seafood and make music (often at the same time) 
-  
-  - title: cv
-    url: logo.png
-  
+    
   - title: resume
     url: 'Resume July 2025.pdf'
     
