@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "media server instructions"
-date:   2025-10-3 19:34:14 -0400
+date:   2025-10-3 11:17:14 -0400
 categories: fun
 ---
 
