@@ -46,12 +46,9 @@ You can explore jellyfin for fun features like opensubtitles and metadata stuff.
 Uploading your own media is, in my opinion, the most important yet least sexy part of this soup. Please follow these steps with care:
 1. Download <a href="https://filezilla-project.org/">filezilla client</a> on your computer
 2. Connect to the server with the following parameters:
-  - Protocol = **SFTP**
-  - Host = **homelab.blowfish-yo.ts.net**
+  - Host = **sftp://homelab.blowfish-yo.ts.net**
   - User = ***your jellyfin username***
   - Password = ***your jellyfin password***
-3. You will now be connected to the server! Please note that you are inside my  computer now so be nice and respectful. The filesystem is organised very intuitively I think. Your computer is on the left panel, mine  is on the right. In the directory you want to move your media, please make a folder named your name and drag items from the left panel to the right.
-
-The media should regularly refresh in the server and the metadata should autogenerate.
+3. You will now be connected to the server! Please note that you are inside my  computer now so be nice and respectful. The filesystem is organised very intuitively, just navigate to the directory you want (shows, movies, music whatever) and drag your files in. It should show up soon with the correct metadata automatically.
 
 It might be annoying to use at first but I really think this could turn into something beautiful so if this idea sounds good to you on an ideological level please give it a shot!
