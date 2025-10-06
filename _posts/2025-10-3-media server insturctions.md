@@ -46,6 +46,6 @@ Uploading your own media is, in my opinion, the most important yet least sexy pa
   - Host = **sftp://homelab.blowfish-yo.ts.net**
   - User = **user**
   - Password = ***ask me for the password***
-3. You will now be connected to the server! Please note that you are inside my computer now so be nice and respectful. The filesystem is organised very intuitively, just navigate to the directory you want (shows, movies, music whatever) and drag your files in. It should show up soon with the correct metadata automatically. Try to be consitent with the folder and naming structure if you can to avoid future issues.
+3. You will now be connected to the server! Please note that you are inside my computer now so be nice and respectful. The filesystem is organised very intuitively, just navigate to the directory you want (shows, movies, music whatever) and drag your files in. It should show up soon with the correct metadata automatically. Try to be consistent with the folder and naming structure if you can to avoid future issues.
 
 It might be annoying to use at first but I really think this could turn into something beautiful so if this idea sounds good to you on an ideological level please give it a shot!
