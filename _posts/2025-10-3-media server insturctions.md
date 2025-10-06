@@ -18,8 +18,9 @@ I don't know about you but I personally am sick and tired of the way media is co
 For security reasons, I've decided to use a vpn to connect to the media server instead of port forwarding. It's also much easier I think. The VPN I've chosen is **tailscale** and the setup could not be simpler:
 
 1. Download tailscale on your device and make an account. If you are not signed into the VPN network you **CANNOT STREAM OR UPLOAD ANY CONTENT**. It sounds much more annoying than it is.
-2. Accept my network invite using <a href="https://login.tailscale.com/admin/invite/K67MpXH4Av5aijEq6U1B11">this</a> link. I will need to approve you after this, just let me know
-3. You are connected to the VPN so now you can connect to the streaming server (next section) and upload files (next next section).
+2. Add a second device to your network by donwloading the tailscale app and logging in - a cell phone would be good so you can stream content on the go. I think it's awful that tailscale requires 2 devices on your network before you can add someone elses media server but I don't have a workaround for this nor do I make the rules.
+3. Accept my network invite using <a href="https://login.tailscale.com/admin/invite/K67MpXH4Av5aijEq6U1B11">this</a> link. After I approve the request you should see homelab (the media server) as a device in your network.
+4. You are connected to the VPN so now you can connect to the streaming server (next section) and upload files (next next section).
 
 ---
 {: data-content="streaming"}
@@ -34,11 +35,7 @@ There are two ways to connect to the media streaming server: web and and client.
 
 Download the jellyfin client on your streaming device (phone, computer, etc.). **While connnected to the VPN**, add a new sever with adress **homelab.blowfish-yo.ts.net:8096**
 
-In either the website or client, you will see a login screen. If you dont see your account please contact me  so I can make you an account. I think I can automate this in the future but I don't want to.
-
-**IMPORTANT**!!! I  will see your username and password so please **PLEASE** don't use your normal password you would use for something like your bank account. Just don't do it.
-
-You can explore jellyfin for fun features like opensubtitles and metadata stuff. To be honsest I havent explored most of these features so let me know if you find anything cool or not cool.
+In either case, I will make you an account to login through jellyfin.
 
 ---
 {: data-content="uploading"}
@@ -47,8 +44,8 @@ Uploading your own media is, in my opinion, the most important yet least sexy pa
 1. Download <a href="https://filezilla-project.org/">filezilla client</a> on your computer
 2. Connect to the server with the following parameters:
   - Host = **sftp://homelab.blowfish-yo.ts.net**
-  - User = ***your jellyfin username***
-  - Password = ***your jellyfin password***
-3. You will now be connected to the server! Please note that you are inside my  computer now so be nice and respectful. The filesystem is organised very intuitively, just navigate to the directory you want (shows, movies, music whatever) and drag your files in. It should show up soon with the correct metadata automatically.
+  - User = **user**
+  - Password = ***ask me for the password***
+3. You will now be connected to the server! Please note that you are inside my computer now so be nice and respectful. The filesystem is organised very intuitively, just navigate to the directory you want (shows, movies, music whatever) and drag your files in. It should show up soon with the correct metadata automatically. Try to be consitent with the folder and naming structure if you can to avoid future issues.
 
 It might be annoying to use at first but I really think this could turn into something beautiful so if this idea sounds good to you on an ideological level please give it a shot!
